@@ -1,4 +1,4 @@
-package main
+package apolloDb
 
 import (
 	"database/sql"
