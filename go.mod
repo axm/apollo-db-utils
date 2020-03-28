@@ -1,4 +1,4 @@
-module apollo-db-utils
+module github.com/axm/apollo-db-utils
 
 go 1.14
 
