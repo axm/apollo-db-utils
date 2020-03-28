@@ -1,4 +1,4 @@
-module db-setup
+module apollo-db-utils
 
 go 1.14
 
