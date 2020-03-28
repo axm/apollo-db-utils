@@ -1,7 +1,7 @@
 package main
 
 import (
-	"db-setup/apolloDb"
+	"db-setup/apollo-db-utils"
 	"flag"
 	"fmt"
 	"log"
